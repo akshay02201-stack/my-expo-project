@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "NestAir",
+    "slug": "nestair",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#070C18"
+    },
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.nestair.app"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#070C18"
+      },
+      "package": "com.nestair.app"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": []
+  }
+}
